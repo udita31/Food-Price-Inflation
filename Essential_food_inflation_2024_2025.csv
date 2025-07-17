@@ -1,0 +1,73 @@
+SN NO.,PRODUCT ,STATE,YEAR,PRICE (RS/Quintal)
+1,wheat,Madhya Pradesh,2024,2590
+2,wheat,Madhya Pradesh,2025,2653
+3,wheat,Uttar Pradesh,2024,2360
+4,wheat,Uttar Pradesh,2025,2425
+5,wheat,West Bengal,2024,2500
+6,wheat,West Bengal,2025,2750
+7,wheat,Punjab,2024,2275
+8,wheat,Punjab,2025,2430
+9,Rice,Madhya Pradesh,2024,2439
+10,Rice,Madhya Pradesh,2025,2900
+11,Rice,Uttar Pradesh,2024,3040
+12,Rice,Uttar Pradesh,2025,3370
+13,Rice,West Bengal,2024,3300
+14,Rice,West Bengal,2025,4125
+15,Rice,Punjab,2024,2203
+16,Rice,Punjab,2025,4500
+17,Onion,Madhya Pradesh,2024,1677
+18,Onion,Madhya Pradesh,2025,1000
+19,Onion,Uttar Pradesh,2024,1570
+20,Onion,Uttar Pradesh,2025,1220
+21,Onion,West Bengal,2024,2750
+22,Onion,West Bengal,2025,1800
+23,Onion,Punjab,2024,1100
+24,Onion,Punjab,2025,1600
+25,Tur Dal,Madhya Pradesh,2024,5417
+26,Tur Dal,Madhya Pradesh,2025,5500
+27,Tur Dal,Uttar Pradesh,2024,13900
+28,Tur Dal,Uttar Pradesh,2025,11150
+29,Tur Dal,West Bengal,2024,14500
+30,Tur Dal,West Bengal,2025,12000
+31,Tur Dal,Punjab,2024,6040
+32,Tur Dal,Punjab,2025,10880
+33,Tomato,Madhya Pradesh,2024,1500
+34,Tomato,Madhya Pradesh,2025,2000
+35,Tomato,Uttar Pradesh,2024,1370
+36,Tomato,Uttar Pradesh,2025,1300
+37,Tomato,West Bengal,2024,3800
+38,Tomato,West Bengal,2025,3200
+39,Tomato,Punjab,2024,400
+40,Tomato,Punjab,2025,300
+41,Potato,Madhya Pradesh,2024,2000
+42,Potato,Madhya Pradesh,2025,1396
+43,Potato,Uttar Pradesh,2024,1800
+44,Potato,Uttar Pradesh,2025,1240
+45,Potato,West Bengal,2024,2260
+46,Potato,West Bengal,2025,1320
+47,Potato,Punjab,2024,1000
+48,Potato,Punjab,2025,400
+49,Garlic,Madhya Pradesh,2024,7500
+50,Garlic,Madhya Pradesh,2025,3000
+51,Garlic,Uttar Pradesh,2024,9900
+52,Garlic,Uttar Pradesh,2025,6250
+53,Garlic,West Bengal,2024,18200
+54,Garlic,West Bengal,2025,8250
+55,Garlic,Punjab,2024,6000
+56,Garlic,Punjab,2025,2500
+57,Sugar,Madhya Pradesh,2024,3760
+58,Sugar,Madhya Pradesh,2025,3850
+59,Sugar,Uttar Pradesh,2024,4130
+60,Sugar,Uttar Pradesh,2025,4230
+61,Sugar,West Bengal,2024,3800
+62,Sugar,West Bengal,2025,4273
+63,Sugar,Punjab,2024,4018
+64,Sugar,Punjab,2025,4035
+65,Mustard Oil,Madhya Pradesh,2024,10000
+66,Mustard Oil,Madhya Pradesh,2025,14400
+67,Mustard Oil,Uttar Pradesh,2024,12600
+68,Mustard Oil,Uttar Pradesh,2025,14480
+69,Mustard Oil,West Bengal,2024,13520
+70,Mustard Oil,West Bengal,2025,16200
+71,Mustard Oil,Punjab,2024,13000
+72,Mustard Oil,Punjab,2025,12200
