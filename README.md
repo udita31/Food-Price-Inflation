@@ -1,6 +1,6 @@
 # Food-Price-Inflation : A Study on Food Price Inflation (2024 vs. 2025)
 
-This project explores the price inflation trends of essential food items in India by comparing real market data from two consecutive years—June 2024 and June 2025. It focuses on how much it would cost to prepare a basic Indian thali across different states, emphasizing the ground reality of rising or falling prices.
+This project explores the price inflation trends of essential food items in India by comparing real market data from two consecutive years—June 2024 and June 2025. It focuses on how much it would cost to prepare a basic food necessities across different states, emphasizing the ground reality of rising or falling prices.
 
 ---
 
