@@ -53,4 +53,4 @@ To offer a closer look at how everyday food prices affect Indian households by a
 ---
 
 
-_“Data is dull until you season it with purpose.” – Muskan’s inner data whisperer_ 🌶️📊
+_“Data is dull until you season it with purpose.” 
