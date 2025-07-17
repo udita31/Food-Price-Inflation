@@ -7,7 +7,7 @@ This project explores the price inflation trends of essential food items in Indi
 ## 🧾 What’s in the Data?
 
 - **📦 Products Analyzed:**  
-  9 essential food items including Tomato, Onion, Potato, Rice, Wheat, Mustard Oil, Sugar, Milk, and Tur Dal.
+  9 essential food items including Tomato, Onion, Potato, Rice, Wheat, Mustard Oil, Sugar,garlic and Tur Dal.
 
 - **🗺️ States Covered:**  
   - Madhya Pradesh  
@@ -47,7 +47,7 @@ To offer a closer look at how everyday food prices affect Indian households by a
 ## 🚀 Coming Soon
 
 - Visualizations of price trends  
-- State-wise thali cost comparisons  
+- State-wise comparisons  
 - Insightful dashboards (maybe 👀)
 
 ---
